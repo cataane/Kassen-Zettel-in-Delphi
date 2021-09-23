@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.686,=C:\Users\aya\Documents\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,=C:\Users\Robin Krause\Desktop\KassenZettel\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.243,C:\Users\Robin Krause\Desktop\KassenZettel\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,C:\Users\Robin Krause\Desktop\KassenZettel\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.243,C:\Users\Robin Krause\Desktop\KassenZettel\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

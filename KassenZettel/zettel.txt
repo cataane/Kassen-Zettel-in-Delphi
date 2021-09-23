@@ -1,0 +1,77 @@
+TimeStamp   = 15-09-2021 08:37:04
+Einzelpreis   = 2
+Stückzahl     = 2
+Grundpreis   = 4
+Rabattsatz  = 2
+Skontosatz  = 2
+Rabatt         = 0,08
+Skonto         = 0,0784
+Endpreis      = 3,8416
+______________________________
+=======================
+TimeStamp   = 15-09-2021 08:37:17
+Einzelpreis   = 3
+Stückzahl     = 3
+Grundpreis   = 9
+Rabattsatz  = 3
+Skontosatz  = 3
+Rabatt         = 0,27
+Skonto         = 0,2619
+Endpreis      = 8,4681
+______________________________
+=======================
+TimeStamp   = 15-09-2021 08:57:26
+Einzelpreis   = 2
+Stückzahl     = 1
+Grundpreis   = 2
+Rabattsatz  = 
+Skontosatz  = 
+Rabatt         = 
+Skonto         = 
+Endpreis      = 2
+______________________________
+=======================
+TimeStamp   = 15-09-2021 09:01:07
+Einzelpreis   = 100
+Stückzahl     = 8
+Grundpreis   = 800
+Rabattsatz  = 
+Skontosatz  = 
+Rabatt         = 
+Skonto         = 
+Endpreis      = 800
+______________________________
+=======================
+TimeStamp   = 15-09-2021 13:22:12
+Einzelpreis   = 10
+Stückzahl     = 5
+Grundpreis   = 50
+Rabattsatz  = 
+Skontosatz  = 
+Rabatt         = 
+Skonto         = 
+Endpreis      = 50
+______________________________
+=======================
+TimeStamp   = 15-09-2021 13:23:10
+Einzelpreis   = 5
+Stückzahl     = 5
+Grundpreis   = 25
+Rabattsatz  = 5
+Skontosatz  = 5
+Rabatt         = 1,25
+Skonto         = 1,1875
+Endpreis      = 0
+______________________________
+=======================
+TimeStamp   = 15-09-2021 13:23:32
+Einzelpreis   = 1
+Stückzahl     = 6
+Grundpreis   = 6
+Rabattsatz  = 
+Skontosatz  = 
+Rabatt         = 1,25
+Skonto         = 1,1875
+Endpreis      = 6
+______________________________
+=======================
